@@ -9,8 +9,8 @@
 	<EMail><![CDATA[<a href="mailto:info@vdhsoft.com">info@vdhsoft.com</a>]]></EMail>
 	<Logo>images/logo.png</Logo>
 	<HLTheme>dracula.css</HLTheme>
-	<HyperLink1><![CDATA[<a href="http://picsoocloud.com/picsooapidemo/" style="color: red;">
-  <span style="text-decoration: underline;">PHP real-time demo !</span></a>
+	<HyperLink1><![CDATA[<a href="https://www.vdhsoft.com/api-doc/" style="color: red;">
+  <span style="text-decoration: underline;">Real-time demo !</span></a>
   <br>
 <div class="info">
 	<a href="https://github.com/VDHSoft-com/API-Documentation-HTML-Template-V2">(sources available on github)</a>
