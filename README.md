@@ -51,7 +51,7 @@
 </APIDefinition>
 ```
   
-- the project uses now **tags**; these tags come from the **<APIDefinition>** section of the xml file and replaced by the text in the post-generated html files;
+- the project uses now **tags**; these tags come from the **&lt;APIDefinition&gt;** section of the xml file and replaced by the text in the post-generated html files;
 <br>tags available are :
 ```
 	{{Version}}
