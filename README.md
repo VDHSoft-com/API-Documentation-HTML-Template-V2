@@ -52,6 +52,7 @@
 ```
   
 - the project uses now `tags`; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
+```
 	{{Version}}
 	{{Author}}
 	{{ReleasedDate}}
@@ -66,6 +67,7 @@
 	{{EMail}}
 	{{Copyright}}
 	{{GithubLink}}
+```
 - the `content` is placed is a subdirectory `content` referenced in the xml file.
 - the project is splitted into 4 parts : index.php (main), header.php, start-1.php, end-1.php; the context is placed between start-1 and end-1;
   each of the parts can contain the tags.
