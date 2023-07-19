@@ -1,4 +1,4 @@
-# API Documentation HTML Template
+# API/Webservices Documentation HTML Template
 
 ### A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation
 
