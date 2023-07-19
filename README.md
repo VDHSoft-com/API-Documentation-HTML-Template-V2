@@ -8,7 +8,8 @@
 
 - this version is more customizable thru the use of a xml definition file (see api-definition.xml).
   here is the structure of the xml file :
-  
+
+```xml  
 <APIDefinition>
 	<MainTitle>API Documentation</MainTitle>
 	<TabTitle>API Documentation</TabTitle>
@@ -48,7 +49,7 @@
 	</APIfunction>
 	...
 </APIDefinition>
-  
+.```  
   
 - the project uses now `tags`; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
 	{{Version}}
