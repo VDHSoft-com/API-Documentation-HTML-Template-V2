@@ -2,7 +2,7 @@
 
 ### A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation
 
-## Current version : 2.0.0
+## Current version : 2.0.0 (NEW from VDHSoft.com)
 
 - this is an updated version of Florian Nicolas.
 
