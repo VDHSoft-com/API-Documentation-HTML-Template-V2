@@ -51,7 +51,7 @@
 </APIDefinition>
 ```
   
-- the project uses now `tags`; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
+- the project uses now `**tags**`; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
 ```
 	{{Version}}
 	{{Author}}
