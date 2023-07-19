@@ -1,6 +1,6 @@
 # API Documentation HTML Template
 
-### A simple, modern and readable HTML template for APIs documentations
+### A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation
 
 ## Current version : 2.0.0
 
