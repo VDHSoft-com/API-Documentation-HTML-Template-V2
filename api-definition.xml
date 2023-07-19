@@ -1,0 +1,39 @@
+<APIDefinition>
+	<MainTitle>API Documentation</MainTitle>
+	<TabTitle>API Documentation</TabTitle>
+	<Version>2.0.0</Version>
+	<Author>VDHSoft (V2)</Author>
+	<Copyright>&amp;copy;...</Copyright>
+	<ReleasedDate>15th Sep, 2021</ReleasedDate>
+	<Description></Description>
+	<EMail><![CDATA[<a href="mailto:info@vdhsoft.com">info@vdhsoft.com</a>]]></EMail>
+	<Logo>images/logo.png</Logo>
+	<HLTheme>dracula.css</HLTheme>
+	<HyperLink1><![CDATA[<a href="http://picsoocloud.com/picsooapidemo/" style="color: red;">
+  <span style="text-decoration: underline;">PHP real-time demo !</span></a>
+  <br>
+<div class="info">
+	<a href="https://github.com/VDHSoft-com/API-Documentation-HTML-Template-V2">(sources available on github)</a>
+</div>
+]]></HyperLink1>
+	<GithubLink>https://github.com/VDHSoft-com/API-Documentation-HTML-Template-V2</GithubLink>
+	<APIfunction id="1">
+		<title>GET STARTED</title>
+		<source>content-getstarted</source>
+		<visible>true</visible>
+		<type>html</type>
+	</APIfunction>
+	<APIfunction id="2">
+		<title>Get Characters</title>
+		<source>content-getcharacters</source>
+		<visible>true</visible>
+		<type>html</type>
+	</APIfunction>
+	<APIfunction id="3">
+		<title>ERRORS</title>
+		<source>content-errors</source>
+		<visible>true</visible>
+		<type>html</type>
+	</APIfunction>
+</APIDefinition>
+
