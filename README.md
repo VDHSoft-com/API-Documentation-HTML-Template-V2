@@ -1,13 +1,13 @@
 # API/Webservices Documentation HTML Template
 
-### A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation
+## A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation
 
-## Current version : 2.0.0 (NEW from VDHSoft.com)
+### Current version : 2.0.0 (NEW from VDHSoft.com)
 
 - this is an updated version of Florian Nicolas.
 
 - this version is more customizable thru the use of a xml definition file (see api-definition.xml).
-  here is the structure of the xml file :
+  <br>here is the structure/example of the xml file :
 
 ```xml  
 <APIDefinition>
@@ -49,7 +49,7 @@
 	</APIfunction>
 	...
 </APIDefinition>
-.```  
+```
   
 - the project uses now `tags`; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
 	{{Version}}
