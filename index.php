@@ -1,9 +1,11 @@
 <!--
- VDHSOFT API Documentation Version 0.01
+ VDHSOFT API Documentation Version 2.0.0
+ 
  Based on the idea of https://floriannicolas.github.io/API-Documentation-HTML-Template/
 
- Copyright © 2023 vdhsoft.com
-
+ V2 Copyright © 2023 vdhsoft.com
+ info@vdhsoft.com
+ 
  !-->
 <?php
 
