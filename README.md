@@ -1,6 +1,6 @@
 # API/Webservices Documentation HTML Template
 
-The demo version V2 can be found here : [DEMO](https://www.vdhsoft.com/api-doc/). \
+The demo version V2 can be found here : [DEMO](https://www.vdhsoft.com/api-doc/)
 
 ## A simple, modern, fully customizable with tags HTML template for your APIs/Webservices documentation.
 
