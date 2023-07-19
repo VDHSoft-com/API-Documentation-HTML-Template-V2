@@ -51,7 +51,8 @@
 </APIDefinition>
 ```
   
-- the project uses now **tags**; these tags are processed and the text from the xml file are replaced in the html files; tags available are :
+- the project uses now **tags**; these tags come from the **<APIDefinition>** section of the xml file and replaced by the text in the post-generated html files;
+<br>tags available are :
 ```
 	{{Version}}
 	{{Author}}
