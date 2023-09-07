@@ -6,7 +6,7 @@ The demo version V2 can be found here : [DEMO](https://www.vdhsoft.com/api-doc/)
 
 ### Current version : 2.0.0 (NEW from VDHSoft.com)
 
-- this is an updated version of Florian Nicolas.
+- this is an updated version of Florian Nicolas (https://github.com/floriannicolas/API-Documentation-HTML-Template).
 
 - this version is more customizable thru the use of a xml definition file (see api-definition.xml).
   <br>here is the structure/example of the xml file :
